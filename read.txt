@@ -1,9 +1,8 @@
 read
 diff
 
-<<<<<<< HEAD
 master
-=======
+
 
 feature
->>>>>>> feature
+
